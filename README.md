@@ -110,7 +110,7 @@ pip install -r requirements.txt
 
 ---
 
-> You can deploy this app for free on [Customer Churn Predictor](https://co2-emission-predictor-dveuw46vonjd6z2x3rxfza.streamlit.app/)
+> You can deploy this app for free on [Customer Churn Predictor](https://customer-churn-predictor-pxh6onc8wr2jhkyjtugtfp.streamlit.app/)
 
 
 
